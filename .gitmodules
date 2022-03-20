@@ -1,6 +1,6 @@
 [submodule "art"]
-	path = art
+	path = assets/art
 	url = https://github.com/y2kafe/art
 [submodule "music"]
-	path = music
+	path = assets/music
 	url = https://github.com/y2kafe/music
