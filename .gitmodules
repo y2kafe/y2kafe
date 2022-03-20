@@ -1,0 +1,6 @@
+[submodule "art"]
+	path = art
+	url = https://github.com/y2kafe/art
+[submodule "music"]
+	path = music
+	url = https://github.com/y2kafe/music
