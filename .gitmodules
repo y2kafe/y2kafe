@@ -4,3 +4,9 @@
 [submodule "music"]
 	path = assets/music
 	url = https://github.com/y2kafe/music
+[submodule "assets/music"]
+	path = assets/music
+	url = https://github.com/y2kafe/music
+[submodule "assets/art"]
+	path = assets/art
+	url = https://github.com/y2kafe/art
